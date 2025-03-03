@@ -5,6 +5,17 @@ Html ile oluşturulan bu web sitesi, profesyonel kamera ve lens ekipmanları ür
 Web sitesi, her ürün için açıklamalar, görseller ve fiyat bilgisi içermektedir. Ayrıca, marka hakkında genel bilgilere, müşteri destek hizmetlerine ve iletişim kanallarına da yer verilmektedir.
 Müşteriler, site üzerinden ürünlere dair bilgi alabilir, teknik destek ve garanti süreçlerine ulaşabilir. 
 
+**Anasayfa Görünüm**
+ ![Image Alt](https://github.com/feyzs/HTML-project/blob/351e909000bb16a8746fc01e4f05be55595a3105/anasayfa.png)
+ 
+ **Ürünler Sayfası Görünüm**
+ ![Image Alt](https://github.com/feyzs/HTML-project/blob/4bd1a34f70e3e2665047ed2178054173bdd4c218/%C3%BCr%C3%BCnlersayfas%C4%B1.png)
+ 
+ **İletişim Sayfası Görünüm**
+  ![Image Alt](https://github.com/feyzs/HTML-project/blob/4bd1a34f70e3e2665047ed2178054173bdd4c218/ileti%C5%9Fimsayfas%C4%B1.png)
+
+
+
 **PROJEDE KULLANILAN HTML ETİKETLERİ VE GÖREVLERİ**
 
 | HTML Etiketi   | Görevi |
